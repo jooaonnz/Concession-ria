@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\concession\u00E1ria\\concession\u00E1ria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|solutionrelative:concession\u00E1ria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\concession\u00E1ria\\concession\u00E1ria\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|solutionrelative:concession\u00E1ria\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\concession\u00E1ria\\concession\u00E1ria\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|solutionrelative:concession\u00E1ria\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\concession\u00E1ria\\concession\u00E1ria\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|solutionrelative:concession\u00E1ria\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\concession\u00E1ria\\concession\u00E1ria\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|solutionrelative:concession\u00E1ria\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\concession\u00E1ria\\concession\u00E1ria\\iveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15C6BF9-739A-4B88-9A72-9A18FD50E962}|Concession\u00E1ria\\Concession\u00E1ria.csproj|solutionrelative:concession\u00E1ria\\iveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Caminhao.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Concession\u00E1ria\\Concession\u00E1ria\\Caminhao.cs",
+              "RelativeDocumentMoniker": "Concession\u00E1ria\\Caminhao.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Concession\u00E1ria\\Concession\u00E1ria\\Caminhao.cs",
+              "RelativeToolTip": "Concession\u00E1ria\\Caminhao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:46:02.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Concession\u00E1ria\\Concession\u00E1ria\\Moto.cs",
+              "RelativeDocumentMoniker": "Concession\u00E1ria\\Moto.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Concession\u00E1ria\\Concession\u00E1ria\\Moto.cs",
+              "RelativeToolTip": "Concession\u00E1ria\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:45:37.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Concession\u00E1ria\\Concession\u00E1ria\\Carro.cs",
+              "RelativeDocumentMoniker": "Concession\u00E1ria\\Carro.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Concession\u00E1ria\\Concession\u00E1ria\\Carro.cs",
+              "RelativeToolTip": "Concession\u00E1ria\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:45:09.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Concession\u00E1ria\\Concession\u00E1ria\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Concession\u00E1ria\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Concession\u00E1ria\\Concession\u00E1ria\\Veiculo.cs",
+              "RelativeToolTip": "Concession\u00E1ria\\Veiculo.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:44:38.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Concession\u00E1ria\\Concession\u00E1ria\\IVeiculo.cs",
+              "RelativeDocumentMoniker": "Concession\u00E1ria\\IVeiculo.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Concession\u00E1ria\\Concession\u00E1ria\\IVeiculo.cs",
+              "RelativeToolTip": "Concession\u00E1ria\\IVeiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:43:58.986Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +109,7 @@
               "RelativeDocumentMoniker": "Concession\u00E1ria\\Program.cs",
               "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Concession\u00E1ria\\Concession\u00E1ria\\Program.cs",
               "RelativeToolTip": "Concession\u00E1ria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T02:22:46.451Z",
               "EditorCaption": ""
