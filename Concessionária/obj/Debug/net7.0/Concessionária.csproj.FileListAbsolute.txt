@@ -1,0 +1,15 @@
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\bin\Debug\net7.0\Concessionária.exe
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\bin\Debug\net7.0\Concessionária.deps.json
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\bin\Debug\net7.0\Concessionária.runtimeconfig.json
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\bin\Debug\net7.0\Concessionária.dll
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\bin\Debug\net7.0\Concessionária.pdb
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\obj\Debug\net7.0\Concessionária.csproj.AssemblyReference.cache
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\obj\Debug\net7.0\Concessionária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\obj\Debug\net7.0\Concessionária.AssemblyInfoInputs.cache
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\obj\Debug\net7.0\Concessionária.AssemblyInfo.cs
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\obj\Debug\net7.0\Concessionária.csproj.CoreCompileInputs.cache
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\obj\Debug\net7.0\Concessionária.dll
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\obj\Debug\net7.0\refint\Concessionária.dll
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\obj\Debug\net7.0\Concessionária.pdb
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\obj\Debug\net7.0\Concessionária.genruntimeconfig.cache
+C:\Users\joao.eskelsen\Source\Repos\Concession-ria\Concessionária\obj\Debug\net7.0\ref\Concessionária.dll

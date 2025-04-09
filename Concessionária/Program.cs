@@ -14,6 +14,9 @@ namespace Anotções_Interface
 
         static public void Inicio()
         {
+
+            Veiculo veiculo = new Veiculo("","",0000,0000);
+
             Console.WriteLine("Veiculos \n");
             Console.WriteLine("Digite a quantidade de dias: ");
             int dias = Convert.ToInt32(Console.ReadLine());
@@ -31,10 +34,12 @@ namespace Anotções_Interface
                 case 0:
                     break;
                 case 1:
+                    Console.Clear();
                     Inicio();
                     break;
                 case 2:
-                    //criar metodo calc
+                    Console.Clear();
+                    veiculo.CadastrarVeiculo();
                     break;
                 default:
                     throw new Exception("ERRO:INSIRA UM NÚMERO VÁLIDO");
