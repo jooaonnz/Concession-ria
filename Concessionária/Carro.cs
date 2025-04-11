@@ -12,8 +12,5 @@ namespace Anotções_Interface
 
         : base(modelo, marca, ano, valorBase) { }
 
-
-
-
     }
 }

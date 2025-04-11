@@ -10,7 +10,5 @@ namespace Anotções_Interface
     {
         public decimal CalcularDias(int dias);
 
-
-
     }
 }

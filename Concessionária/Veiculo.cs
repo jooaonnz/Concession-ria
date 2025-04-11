@@ -65,9 +65,6 @@ namespace Anotções_Interface
 
         }
 
-
-
-        //terminar de criar
         public void CadastrarVeiculo()
         {
 
@@ -107,19 +104,9 @@ namespace Anotções_Interface
                 veiculos.Add(caminhao);
             }
 
-
-           
-
         }
-
-
-
-       
-
-
+  
     }
-
-
 
 }
     

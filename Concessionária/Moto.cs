@@ -21,8 +21,5 @@ namespace Anotções_Interface
             return base.CalcularDias(dias) * percentualRestante;
         }
 
-
-
-
     }
 }

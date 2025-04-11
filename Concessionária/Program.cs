@@ -17,6 +17,8 @@ namespace Anotções_Interface
 
             while (true)
             {
+                Console.Clear();
+
                 Veiculo veiculo = new Veiculo("", "", 0000, 0000);
 
                 Console.WriteLine("Veiculos \n");
@@ -28,6 +30,8 @@ namespace Anotções_Interface
                 Console.WriteLine("0-Sair");
                 Console.WriteLine("1-Calcular dias");
                 Console.WriteLine("2-Cadastrar veiculo");
+                Console.WriteLine("3-Vizualizar veiculo");
+
 
                 int op = Convert.ToInt32(Console.ReadLine());
 
@@ -44,6 +48,7 @@ namespace Anotções_Interface
                         veiculo.CadastrarVeiculo();
                         break;
                     case 3:
+                         Console.Clear();
                         veiculo.Veiculos(dias);
                         break;
 
@@ -54,13 +59,7 @@ namespace Anotções_Interface
 
             }
 
-
-
         }
-
-
-     
-
 
     }
 }
