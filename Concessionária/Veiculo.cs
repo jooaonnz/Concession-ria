@@ -47,9 +47,30 @@ namespace Anotções_Interface
 
         }
 
+      static public List<Veiculo> veiculos = new List<Veiculo>
+          {
+            new Carro("HB20", "Hyundai", 2024, 350.50m),
+            new Caminhao("FH 460", "Volvo", 2014, 5000.89m),
+            new Caminhao("CG Titan 160", "Honda", 2025, 100.90m),
+          };
+
+        public void Veiculos(int dias)
+        {
+          
+            foreach (var veiculo in veiculos)
+            {
+                veiculo.ExbibirPedido(dias);
+
+            }
+
+        }
+
+
+
         //terminar de criar
         public void CadastrarVeiculo()
         {
+
             Console.WriteLine("1-Carro");
             Console.WriteLine("2-Moto");
             Console.WriteLine("3-Caminhão");
@@ -68,26 +89,32 @@ namespace Anotções_Interface
             Console.WriteLine("Valor diário: ");
             decimal valorDiario = Convert.ToDecimal(Console.ReadLine());
 
+          
             if (op == 1)
             {
-                new Carro(modelo,marca,ano,valorDiario);
-
+                Carro carro =new Carro (modelo,marca,ano,valorDiario);
+                veiculos.Add(carro);    
             }
             else if (op == 2)
             {
-                new Moto(modelo, marca, ano, valorDiario);
+                Moto moto = new(modelo, marca, ano, valorDiario);
+                veiculos.Add(moto);
             }
 
             else
             {
-                new Caminhao(modelo, marca, ano, valorDiario);
+                Caminhao caminhao = new(modelo, marca, ano, valorDiario);
+                veiculos.Add(caminhao);
             }
 
 
-
+           
 
         }
 
+
+
+       
 
 
     }
